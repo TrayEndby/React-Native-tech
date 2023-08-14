@@ -1,5 +1,5 @@
 {
-  posts:[
+  "posts":[
     {
        "id": 1
     
@@ -26,7 +26,7 @@
 
     },
   ],
-  comments:[
+  "comments":[
     {
       "id": 1
   
